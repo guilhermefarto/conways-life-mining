@@ -42,7 +42,7 @@ Usage:
 python conways-life-mining.py [-h] -c CELLS [-p PATH] [-ni] [-d] [-cn] [-lc LIVE_CELL_NOTATION] [-dc DEAD_CELL_NOTATION] [-g GENERATIONS]
 ```
 
-The arguments shoud be:
+The arguments are:
 
 `-c CELLS, --cells CELLS` *(required)*
 * path of the initial cell pattern (`.cells` file)

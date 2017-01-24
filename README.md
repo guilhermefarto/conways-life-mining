@@ -86,6 +86,7 @@ asdf
 
 > A methuselah that was found by John Conway in 1970 - most active polyomino with fewer than six cells; all of the others stabilize in at most 10 generations, but the R-pentomino does not do so until generation 1103, by which time it has a population of 116
 
+
 Check [Conway's Pattern Wiki](http://www.conwaylife.com/wiki/Category:Patterns) to explore several configurations of alive and dead cells patterns. Those patterns can be categorized as
 
 * Important patterns
@@ -94,11 +95,11 @@ Check [Conway's Pattern Wiki](http://www.conwaylife.com/wiki/Category:Patterns) 
 
 * Major categories
 
-Agars, Gardens of Eden, Guns, Methuselahs, Oscillators, Puffers, Sawtooths, Spaceships, Still lifes, and Wicks
+> Agars, Gardens of Eden, Guns, Methuselahs, Oscillators, Puffers, Sawtooths, Spaceships, Still lifes, and Wicks
 
 * Minor categories
 
-Breeders, Caber tossers, Conduits, Converters, Crawlers, Eaters, Fuses, Growing spaceships, Induction coils, Memory cells, Pseudo still lifes, Puffer engines, Pure glider generators, Rakes, Reflectors, Spacefillers, Sparks, Superstrings, Tagalongs, Unit cells, and Wickstretchers
+> Breeders, Caber tossers, Conduits, Converters, Crawlers, Eaters, Fuses, Growing spaceships, Induction coils, Memory cells, Pseudo still lifes, Puffer engines, Pure glider generators, Rakes, Reflectors, Spacefillers, Sparks, Superstrings, Tagalongs, Unit cells, and Wickstretchers
 
 ### Proposed approach for Conway's Life Mining (introduction and concepts)
 

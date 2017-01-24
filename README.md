@@ -165,7 +165,7 @@ cells_map = insert_cell_map(cells_map, data)
   cells_map = conways_step(cells_map)
 ```
 
-* **`.cells` files (in `cells` example folder)**
+### `.cells` files (in `cells` example folder)
 
 * ecologist.cells
 

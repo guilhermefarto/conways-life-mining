@@ -1,0 +1,7 @@
+# Generation [1 of 50] for [cells/rpentomino.cells]
+.....
+..OO.
+.OO..
+..O..
+.....
+# L:O|D:.

@@ -1,0 +1,10 @@
+# Generation [9 of 50] for [cells/rpentomino.cells]
+........
+...OOO..
+..OOOO..
+.OO..OO.
+..O.OO..
+...OOO..
+....O...
+........
+# L:O|D:.

@@ -1,0 +1,9 @@
+# Generation [8 of 50] for [cells/rpentomino.cells]
+_______
+___X___
+_XX_XX_
+_X_____
+_X___X_
+__XXX__
+_______
+# L:X|D:_

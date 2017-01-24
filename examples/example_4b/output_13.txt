@@ -1,0 +1,10 @@
+# Generation [13 of 50] for [cells/rpentomino.cells]
+_________
+___X_____
+__XX_____
+_XX______
+__X______
+___X_XXX_
+_____XXX_
+_________
+# L:X|D:_

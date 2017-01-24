@@ -1,0 +1,8 @@
+# Generation [7 of 50] for [cells/rpentomino.cells]
+0000000
+0011100
+0110110
+0100110
+0011000
+0000000
+# L:1|D:0

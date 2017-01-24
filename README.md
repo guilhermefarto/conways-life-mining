@@ -19,8 +19,6 @@ Feel free to contact me by mail: guilherme.farto@gmail.com
 > Based on Conway's Game of Life - a cellular automaton devised by the British mathematician John Horton Conway in 1970
 
 Usage:
-
-Usage:
 ```python
 python conways-life-mining.py [-h]
 ```

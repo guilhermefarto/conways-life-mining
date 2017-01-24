@@ -143,7 +143,7 @@ cells_map = insert_cell_map(cells_map, data)
   cells_map = expand_cell_map(cells_map, 1)
 ```
 
-#### 4.3. Export of the images and data from the generations (if configured by `-ni, --no_images` and `-d, --data` arguments - respectively, True and False as default values)
+#### 4.3. Export of images and data from the generations (if configured by `-ni, --no_images` and `-d, --data` arguments - respectively, True and False as default values)
 
 > For image export
 

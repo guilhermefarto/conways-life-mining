@@ -14,7 +14,9 @@ First, upgrade `pip`to the latest version by executing the command in the prompt
 
 Then install the SciPy stack packages with `pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose`.
 
-For Windows users, the SciPy [official page](https://www.scipy.org/install.html) recommends the use of [pre-built Windows installers](http://www.lfd.uci.edu/~gohlke/pythonlibs/) for many Python packages, including all of the core SciPy stack.
+For Windows users, the SciPy [official page](https://www.scipy.org/install.html) recommends the use of [pre-built Windows installers](http://www.lfd.uci.edu/~gohlke/pythonlibs/) for many Python packages, including all of the core SciPy stack. Some pre-built Windows installers can ben also downloaded from [this link](https://sourceforge.net/projects/scipy/) and [this link](https://sourceforge.net/projects/scipy/files/scipy/0.16.1/).
+
+To install the `Matplotlib` dependency from [Python Package Index](https://pypi.python.org/pypi/pip) (PIP), execute the command in the prompt `python -m pip install matplotlib`.
 
 Other dependencies of this project are native to Python platform:
 

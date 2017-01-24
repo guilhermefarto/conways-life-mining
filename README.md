@@ -8,7 +8,7 @@
 
 The .py project adopts [Numpy](http://www.numpy.org/) - a fundamental package for scientific computing with Python - and [Matplotlib](http://matplotlib.org/) - a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
-It is possible to the full SciPy stack - a scientific package that contains several components, e.g., Numpy, Simpy, and Pandas - from [Python Package Index](https://pypi.python.org/pypi/pip) (PIP).
+* It is possible to the full SciPy stack - a scientific package that contains several components, e.g., Numpy, Simpy, and Pandas - from [Python Package Index](https://pypi.python.org/pypi/pip) (PIP).
 
 First, upgrade `pip`to the latest version by executing the command in the prompt `python -m pip install --upgrade pip`.
 
@@ -16,7 +16,7 @@ Then install the SciPy stack packages with `pip install --user numpy scipy matpl
 
 For Windows users, the SciPy [official page](https://www.scipy.org/install.html) recommends the use of [pre-built Windows installers](http://www.lfd.uci.edu/~gohlke/pythonlibs/) for many Python packages, including all of the core SciPy stack. Some pre-built Windows installers can ben also downloaded from [this link](https://sourceforge.net/projects/scipy/) and [this link](https://sourceforge.net/projects/scipy/files/scipy/0.16.1/).
 
-To install the `Matplotlib` dependency from [Python Package Index](https://pypi.python.org/pypi/pip) (PIP), execute the command in the prompt `python -m pip install matplotlib`.
+* To install the `Matplotlib` dependency from [Python Package Index](https://pypi.python.org/pypi/pip) (PIP), execute the command in the prompt `python -m pip install matplotlib`.
 
 Other dependencies of this project are native to Python platform:
 

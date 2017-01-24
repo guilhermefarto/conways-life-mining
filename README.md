@@ -6,7 +6,24 @@
 
 ## Dependencies
 
-All dependencies of this project are native to Processing platform.
+The .py project adopts [Numpy](http://www.numpy.org/) - a fundamental package for scientific computing with Python - and [Matplotlib](http://matplotlib.org/) - a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+
+It is possible to the full SciPy stack - a scientific package that contains several components, e.g., Numpy, Simpy, and Pandas - from [Python Package Index](https://pypi.python.org/pypi/pip) (PIP).
+
+First, upgrade `pip`to the latest version by executing the command in the prompt `python -m pip install --upgrade pip`.
+
+Then install the SciPy stack packages with `pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose`.
+
+For Windows users, the SciPy [official page](https://www.scipy.org/install.html) recommends the use of [pre-built Windows installers](http://www.lfd.uci.edu/~gohlke/pythonlibs/) for many Python packages, including all of the core SciPy stack.
+
+Other dependencies of this project are native to Python platform:
+
+```python
+  import os
+  import errno
+  import argparse
+  import time
+```
 
 ## Contact / License
 

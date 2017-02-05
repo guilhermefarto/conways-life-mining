@@ -2,7 +2,7 @@
 
 Python project for
 
-* (i) [Conway's Life Mining](#c-life-mining) simulation and data export ([examples](#all-examples))
+* (i) [Conway's Life Mining](#c-life-mining) - a life mining approach for simulation and data export based on the context of Conway's Game of Life ([examples](#all-examples))
 
 ## Dependencies
 

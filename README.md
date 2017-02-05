@@ -2,7 +2,7 @@
 
 Python project for
 
-* (i) [Conway's Life Mining](#conways-life-mining) simulation and data export ([examples](#all-examples))
+* (i) [Conway's Life Mining](#c-life-mining) simulation and data export ([examples](#all-examples))
 
 ## Dependencies
 
@@ -33,7 +33,7 @@ Feel free to contact me by mail: guilherme.farto@gmail.com
 
 ---
 
-<a name="conways-life-mining"></a>
+<a name="c-life-mining"></a>
 ## Conway's Life Mining (conways-life-mining.py)
 > Based on Conway's Game of Life - a cellular automaton devised by the British mathematician John Horton Conway in 1970
 

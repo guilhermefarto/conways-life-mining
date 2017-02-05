@@ -1,6 +1,6 @@
 # conways-life-mining
 
-[Processing](https://processing.org/) project for
+Python project for
 
 * (i) [Conway's Life Mining](#conways-life-mining) simulation and data export ([examples](#all-examples))
 

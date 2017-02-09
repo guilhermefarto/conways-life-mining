@@ -8,7 +8,7 @@ Python project for
 
 The .py project adopts [Numpy](http://www.numpy.org/) - a fundamental package for scientific computing with Python - and [Matplotlib](http://matplotlib.org/) - a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
-First, upgrade `pip`to the latest version by executing the command in the prompt `python -m pip install --upgrade pip`.
+First, upgrade `pip` to the latest version by executing the command in the prompt `python -m pip install --upgrade pip`.
 
 It is possible to the full SciPy stack - a scientific package that contains several components, e.g., Numpy, Simpy, and Pandas - from [Python Package Index](https://pypi.python.org/pypi/pip) (PIP).
 
